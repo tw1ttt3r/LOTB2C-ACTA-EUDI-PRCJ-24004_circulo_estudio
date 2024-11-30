@@ -1,0 +1,1 @@
+# Proyecto de ejemplo de círculo de estudio
