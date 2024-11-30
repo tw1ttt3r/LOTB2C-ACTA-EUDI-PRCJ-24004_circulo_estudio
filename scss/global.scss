@@ -14,3 +14,13 @@ body {
 li {
     list-style: none;
 }
+
+.container-main {
+    width: 100vw;
+    height: calc(100vh - variables.$navbar_h);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: variables.$bg_color;
+}
